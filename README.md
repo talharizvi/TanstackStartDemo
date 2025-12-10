@@ -98,8 +98,7 @@ pnpm test     # vitest
 
 ### Notes
 
-- Drizzle/db files were removed; no database is needed for todos.
-- If you previously ran drizzle scripts, they are now unused for this feature.
+
   <TanStackRouterDevtools />
   </>
   ),
